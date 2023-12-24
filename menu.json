@@ -1,0 +1,164 @@
+{
+    "menu_items": [
+      {
+        "id": 1,
+        "name": "Burger Steak Value Meal",
+        "description": "Adipisci vero suscipit qui inventore.",
+        "price": "955.00",
+        "created_at": "2023-12-24T08:08:17.000000Z",
+        "updated_at": "2023-12-24T08:08:17.000000Z"
+      },
+      {
+        "id": 2,
+        "name": "Burger Steak Value Meal",
+        "description": "Quam et harum non autem aut et.",
+        "price": "696.00",
+        "created_at": "2023-12-24T08:08:17.000000Z",
+        "updated_at": "2023-12-24T08:08:17.000000Z"
+      },
+      {
+        "id": 3,
+        "name": "Halo-Halo Sundae",
+        "description": "Ea nobis inventore perspiciatis aliquid sint.",
+        "price": "214.00",
+        "created_at": "2023-12-24T08:08:17.000000Z",
+        "updated_at": "2023-12-24T08:08:17.000000Z"
+      },
+      {
+        "id": 4,
+        "name": "Burger Steak Value Meal",
+        "description": "Vel porro deserunt incidunt quasi.",
+        "price": "243.00",
+        "created_at": "2023-12-24T08:08:17.000000Z",
+        "updated_at": "2023-12-24T08:08:17.000000Z"
+      },
+      {
+        "id": 5,
+        "name": "Halo-Halo Sundae",
+        "description": "Perspiciatis quis veritatis corporis exercitationem nulla labore incidunt consequatur.",
+        "price": "893.00",
+        "created_at": "2023-12-24T08:08:17.000000Z",
+        "updated_at": "2023-12-24T08:08:17.000000Z"
+      },
+      {
+        "id": 6,
+        "name": "Burger Steak Value Meal",
+        "description": "Eius sequi sed qui enim ex soluta mollitia.",
+        "price": "447.00",
+        "created_at": "2023-12-24T08:08:17.000000Z",
+        "updated_at": "2023-12-24T08:08:17.000000Z"
+      },
+      {
+        "id": 7,
+        "name": "Burger Steak Value Meal",
+        "description": "Error dignissimos alias laborum est eius debitis ea et.",
+        "price": "304.00",
+        "created_at": "2023-12-24T08:08:17.000000Z",
+        "updated_at": "2023-12-24T08:08:17.000000Z"
+      },
+      {
+        "id": 8,
+        "name": "Chickenjoy Bucket",
+        "description": "Ut dolor minima sint hic in.",
+        "price": "262.00",
+        "created_at": "2023-12-24T08:08:17.000000Z",
+        "updated_at": "2023-12-24T08:08:17.000000Z"
+      },
+      {
+        "id": 9,
+        "name": "Chickenjoy Bucket",
+        "description": "Aperiam corrupti asperiores iste.",
+        "price": "776.00",
+        "created_at": "2023-12-24T08:08:17.000000Z",
+        "updated_at": "2023-12-24T08:08:17.000000Z"
+      },
+      {
+        "id": 10,
+        "name": "Jolly Spaghetti Family Pack",
+        "description": "Voluptatem libero animi et sunt at.",
+        "price": "961.00",
+        "created_at": "2023-12-24T08:08:17.000000Z",
+        "updated_at": "2023-12-24T08:08:17.000000Z"
+      },
+      {
+        "id": 11,
+        "name": "Burger Steak Value Meal",
+        "description": "Quam magni veniam quis in dolorem corrupti.",
+        "price": "967.00",
+        "created_at": "2023-12-24T08:08:17.000000Z",
+        "updated_at": "2023-12-24T08:08:17.000000Z"
+      },
+      {
+        "id": 12,
+        "name": "Jolly Hotdog Meal",
+        "description": "Sed assumenda qui corrupti.",
+        "price": "623.00",
+        "created_at": "2023-12-24T08:08:17.000000Z",
+        "updated_at": "2023-12-24T08:08:17.000000Z"
+      },
+      {
+        "id": 13,
+        "name": "Jolly Hotdog Meal",
+        "description": "Est voluptates mollitia minus tempora cumque saepe rerum non.",
+        "price": "505.00",
+        "created_at": "2023-12-24T08:08:17.000000Z",
+        "updated_at": "2023-12-24T08:08:17.000000Z"
+      },
+      {
+        "id": 14,
+        "name": "Burger Steak Value Meal",
+        "description": "Dolor delectus necessitatibus esse mollitia reiciendis qui.",
+        "price": "394.00",
+        "created_at": "2023-12-24T08:08:17.000000Z",
+        "updated_at": "2023-12-24T08:08:17.000000Z"
+      },
+      {
+        "id": 15,
+        "name": "Jolly Spaghetti Family Pack",
+        "description": "Perspiciatis sit esse similique excepturi voluptatibus ducimus unde.",
+        "price": "483.00",
+        "created_at": "2023-12-24T08:08:17.000000Z",
+        "updated_at": "2023-12-24T08:08:17.000000Z"
+      },
+      {
+        "id": 16,
+        "name": "Jolly Hotdog Meal",
+        "description": "Repudiandae cum similique rerum recusandae quidem molestiae dolorem voluptatem.",
+        "price": "437.00",
+        "created_at": "2023-12-24T08:08:17.000000Z",
+        "updated_at": "2023-12-24T08:08:17.000000Z"
+      },
+      {
+        "id": 17,
+        "name": "Jolly Hotdog Meal",
+        "description": "Similique inventore a et et odit voluptatem at dignissimos.",
+        "price": "347.00",
+        "created_at": "2023-12-24T08:08:17.000000Z",
+        "updated_at": "2023-12-24T08:08:17.000000Z"
+      },
+      {
+        "id": 18,
+        "name": "Halo-Halo Sundae",
+        "description": "Qui est voluptas quam unde voluptate eveniet aut dolore.",
+        "price": "708.00",
+        "created_at": "2023-12-24T08:08:17.000000Z",
+        "updated_at": "2023-12-24T08:08:17.000000Z"
+      },
+      {
+        "id": 19,
+        "name": "Jolly Hotdog Meal",
+        "description": "Fugit perspiciatis tenetur similique id.",
+        "price": "397.00",
+        "created_at": "2023-12-24T08:08:17.000000Z",
+        "updated_at": "2023-12-24T08:08:17.000000Z"
+      },
+      {
+        "id": 20,
+        "name": "Jolly Spaghetti Family Pack",
+        "description": "Et eius consectetur consequuntur possimus et sed excepturi deserunt.",
+        "price": "402.00",
+        "created_at": "2023-12-24T08:08:17.000000Z",
+        "updated_at": "2023-12-24T08:08:17.000000Z"
+      }
+    ]
+  }

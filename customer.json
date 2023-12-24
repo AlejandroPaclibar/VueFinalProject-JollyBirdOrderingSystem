@@ -1,0 +1,186 @@
+{
+
+            "customers": [
+              {
+                "id": 1,
+                "name": "Prof. Tate Hahn V",
+                "email": "sanford.madisen@waelchi.com",
+                "phone_number": "40364586063",
+                "address": "50773 Giovanni Land\nPort Lempi, WA 78005",
+                "created_at": "2023-12-24T07:14:32.000000Z",
+                "updated_at": "2023-12-24T07:14:32.000000Z"
+              },
+              {
+                "id": 2,
+                "name": "Oma Beatty",
+                "email": "isadore.spencer@yundt.info",
+                "phone_number": "32362060261",
+                "address": "240 Rex Parks\nNew Curtisview, NV 51688",
+                "created_at": "2023-12-24T07:14:32.000000Z",
+                "updated_at": "2023-12-24T07:14:32.000000Z"
+              },
+              {
+                "id": 3,
+                "name": "Dr. Dusty Wiza II",
+                "email": "xstamm@okeefe.com",
+                "phone_number": "53571594826",
+                "address": "9598 Abshire Rue Apt. 966\nPort Levi, PA 77743-3501",
+                "created_at": "2023-12-24T07:14:32.000000Z",
+                "updated_at": "2023-12-24T07:14:32.000000Z"
+              },
+              {
+                "id": 4,
+                "name": "Prof. Clay O'Connell II",
+                "email": "esperanza.klocko@yahoo.com",
+                "phone_number": "47172009525",
+                "address": "72197 Glenna Knolls Apt. 043\nWest Glenniefurt, WY 55521",
+                "created_at": "2023-12-24T07:14:32.000000Z",
+                "updated_at": "2023-12-24T07:14:32.000000Z"
+              },
+              {
+                "id": 5,
+                "name": "Ms. Ida Marvin",
+                "email": "uhansen@beahan.com",
+                "phone_number": "55859252322",
+                "address": "984 Moore Islands\nQuitzonview, WV 94087",
+                "created_at": "2023-12-24T07:14:32.000000Z",
+                "updated_at": "2023-12-24T07:14:32.000000Z"
+              },
+              {
+                "id": 6,
+                "name": "Kurtis Koch",
+                "email": "ebert.dannie@hotmail.com",
+                "phone_number": "79859661275",
+                "address": "77776 Brandi Lake\nFraneckiville, ND 90033-5992",
+                "created_at": "2023-12-24T07:14:32.000000Z",
+                "updated_at": "2023-12-24T07:14:32.000000Z"
+              },
+              {
+                "id": 7,
+                "name": "Mr. Arne Crist V",
+                "email": "coy.kub@bartell.com",
+                "phone_number": "39186181664",
+                "address": "763 King Extension\nBechtelarland, FL 02065-8768",
+                "created_at": "2023-12-24T07:14:32.000000Z",
+                "updated_at": "2023-12-24T07:14:32.000000Z"
+              },
+              {
+                "id": 8,
+                "name": "Margarita Fisher",
+                "email": "kcormier@turner.com",
+                "phone_number": "19658830674",
+                "address": "6664 Kozey Underpass Suite 175\nPort Otilia, FL 52513-6560",
+                "created_at": "2023-12-24T07:14:32.000000Z",
+                "updated_at": "2023-12-24T07:14:32.000000Z"
+              },
+              {
+                "id": 9,
+                "name": "Martina Mayert",
+                "email": "emills@schaefer.com",
+                "phone_number": "57903386741",
+                "address": "739 Josh Land\nKielborough, CA 02550-4337",
+                "created_at": "2023-12-24T07:14:32.000000Z",
+                "updated_at": "2023-12-24T07:14:32.000000Z"
+              },
+              {
+                "id": 10,
+                "name": "Kendall Rohan",
+                "email": "violette.wiegand@ferry.com",
+                "phone_number": "83120365749",
+                "address": "38729 Howe Mill\nNew Keenanton, KS 78612-6287",
+                "created_at": "2023-12-24T07:14:32.000000Z",
+                "updated_at": "2023-12-24T07:14:32.000000Z"
+              },
+              {
+                "id": 11,
+                "name": "Lexi Bernhard",
+                "email": "dianna39@dubuque.info",
+                "phone_number": "75463886676",
+                "address": "3463 Jacobs Spur Suite 301\nJulioville, SC 04343",
+                "created_at": "2023-12-24T07:14:32.000000Z",
+                "updated_at": "2023-12-24T07:14:32.000000Z"
+              },
+              {
+                "id": 12,
+                "name": "Mr. Jasmin Stark",
+                "email": "jdibbert@kuhic.net",
+                "phone_number": "26573003174",
+                "address": "93929 Klein Lodge Apt. 442\nEast Madyson, OK 32324",
+                "created_at": "2023-12-24T07:14:32.000000Z",
+                "updated_at": "2023-12-24T07:14:32.000000Z"
+              },
+              {
+                "id": 13,
+                "name": "Ewell Sawayn",
+                "email": "mkessler@bogan.com",
+                "phone_number": "40837028263",
+                "address": "8164 Maurine Route\nDarrickmouth, WA 88885-8920",
+                "created_at": "2023-12-24T07:14:32.000000Z",
+                "updated_at": "2023-12-24T07:14:32.000000Z"
+              },
+              {
+                "id": 14,
+                "name": "Gladys Will",
+                "email": "pmills@hotmail.com",
+                "phone_number": "45431413770",
+                "address": "366 Feil Land Suite 587\nEast Darienberg, VT 91512-7068",
+                "created_at": "2023-12-24T07:14:32.000000Z",
+                "updated_at": "2023-12-24T07:14:32.000000Z"
+              },
+              {
+                "id": 15,
+                "name": "Aida Bergnaum",
+                "email": "bogan.allie@doyle.com",
+                "phone_number": "09876725159",
+                "address": "818 Sporer Alley Suite 171\nNorth Evelineland, VA 74640",
+                "created_at": "2023-12-24T07:14:32.000000Z",
+                "updated_at": "2023-12-24T07:14:32.000000Z"
+              },
+              {
+                "id": 16,
+                "name": "Lily VonRueden",
+                "email": "olson.kip@hotmail.com",
+                "phone_number": "03124236198",
+                "address": "663 Huel Plains\nEast Tressieport, IL 86593",
+                "created_at": "2023-12-24T07:14:32.000000Z",
+                "updated_at": "2023-12-24T07:14:32.000000Z"
+              },
+              {
+                "id": 17,
+                "name": "Miss Syble Treutel",
+                "email": "larry59@vandervort.net",
+                "phone_number": "03178377768",
+                "address": "93942 Wuckert Walk Apt. 024\nMeghanside, WY 23843-4211",
+                "created_at": "2023-12-24T07:14:32.000000Z",
+                "updated_at": "2023-12-24T07:14:32.000000Z"
+              },
+              {
+                "id": 18,
+                "name": "Dr. Amparo Schmidt",
+                "email": "hhuels@gmail.com",
+                "phone_number": "64764114672",
+                "address": "54398 Kautzer Forest\nEast Normahaven, MN 61435-1887",
+                "created_at": "2023-12-24T07:14:32.000000Z",
+                "updated_at": "2023-12-24T07:14:32.000000Z"
+              },
+              {
+                "id": 19,
+                "name": "Lilla Rempel",
+                "email": "stephon.gottlieb@yahoo.com",
+                "phone_number": "84490635023",
+                "address": "130 Murray Crest\nNorth Jaydaborough, IL 26725",
+                "created_at": "2023-12-24T07:14:32.000000Z",
+                "updated_at": "2023-12-24T07:14:32.000000Z"
+              },
+              {
+                "id": 20,
+                "name": "Hershel Upton",
+                "email": "arely66@schamberger.net",
+                "phone_number": "09569100850",
+                "address": "2479 Gabe Shore Suite 017\nNorth Crawfordport, TX 85140",
+                "created_at": "2023-12-24T07:14:32.000000Z",
+                "updated_at": "2023-12-24T07:14:32.000000Z"
+              }
+            ]
+          }
+    

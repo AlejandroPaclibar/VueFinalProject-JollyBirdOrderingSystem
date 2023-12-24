@@ -1,0 +1,184 @@
+{
+    "orders": [
+      {
+        "id": 1,
+        "customer_id": 13,
+        "order_number": 134,
+        "order_date": "1982-08-11",
+        "total_amount": "3491.00",
+        "created_at": "2023-12-24T08:08:17.000000Z",
+        "updated_at": "2023-12-24T08:08:17.000000Z"
+      },
+      {
+        "id": 2,
+        "customer_id": 19,
+        "order_number": 147,
+        "order_date": "2023-09-11",
+        "total_amount": "3491.00",
+        "created_at": "2023-12-24T08:08:17.000000Z",
+        "updated_at": "2023-12-24T08:08:17.000000Z"
+      },
+      {
+        "id": 3,
+        "customer_id": 8,
+        "order_number": 164,
+        "order_date": "2003-07-10",
+        "total_amount": "4886.00",
+        "created_at": "2023-12-24T08:08:17.000000Z",
+        "updated_at": "2023-12-24T08:08:17.000000Z"
+      },
+      {
+        "id": 4,
+        "customer_id": 4,
+        "order_number": 166,
+        "order_date": "1992-12-16",
+        "total_amount": "6498.00",
+        "created_at": "2023-12-24T08:08:17.000000Z",
+        "updated_at": "2023-12-24T08:08:17.000000Z"
+      },
+      {
+        "id": 5,
+        "customer_id": 5,
+        "order_number": 145,
+        "order_date": "2007-08-18",
+        "total_amount": "4159.00",
+        "created_at": "2023-12-24T08:08:17.000000Z",
+        "updated_at": "2023-12-24T08:08:17.000000Z"
+      },
+      {
+        "id": 6,
+        "customer_id": 18,
+        "order_number": 158,
+        "order_date": "1973-02-07",
+        "total_amount": "9273.00",
+        "created_at": "2023-12-24T08:08:17.000000Z",
+        "updated_at": "2023-12-24T08:08:17.000000Z"
+      },
+      {
+        "id": 7,
+        "customer_id": 17,
+        "order_number": 129,
+        "order_date": "1973-08-14",
+        "total_amount": "5721.00",
+        "created_at": "2023-12-24T08:08:17.000000Z",
+        "updated_at": "2023-12-24T08:08:17.000000Z"
+      },
+      {
+        "id": 8,
+        "customer_id": 11,
+        "order_number": 101,
+        "order_date": "1986-02-10",
+        "total_amount": "4575.00",
+        "created_at": "2023-12-24T08:08:17.000000Z",
+        "updated_at": "2023-12-24T08:08:17.000000Z"
+      },
+      {
+        "id": 9,
+        "customer_id": 20,
+        "order_number": 162,
+        "order_date": "2009-10-02",
+        "total_amount": "9106.00",
+        "created_at": "2023-12-24T08:08:17.000000Z",
+        "updated_at": "2023-12-24T08:08:17.000000Z"
+      },
+      {
+        "id": 10,
+        "customer_id": 10,
+        "order_number": 108,
+        "order_date": "1988-12-22",
+        "total_amount": "5117.00",
+        "created_at": "2023-12-24T08:08:17.000000Z",
+        "updated_at": "2023-12-24T08:08:17.000000Z"
+      },
+      {
+        "id": 11,
+        "customer_id": 5,
+        "order_number": 108,
+        "order_date": "2004-08-29",
+        "total_amount": "2254.00",
+        "created_at": "2023-12-24T08:08:17.000000Z",
+        "updated_at": "2023-12-24T08:08:17.000000Z"
+      },
+      {
+        "id": 12,
+        "customer_id": 4,
+        "order_number": 146,
+        "order_date": "1985-05-06",
+        "total_amount": "926.00",
+        "created_at": "2023-12-24T08:08:17.000000Z",
+        "updated_at": "2023-12-24T08:08:17.000000Z"
+      },
+      {
+        "id": 13,
+        "customer_id": 20,
+        "order_number": 116,
+        "order_date": "2013-03-08",
+        "total_amount": "1946.00",
+        "created_at": "2023-12-24T08:08:17.000000Z",
+        "updated_at": "2023-12-24T08:08:17.000000Z"
+      },
+      {
+        "id": 14,
+        "customer_id": 10,
+        "order_number": 131,
+        "order_date": "1983-02-13",
+        "total_amount": "1060.00",
+        "created_at": "2023-12-24T08:08:17.000000Z",
+        "updated_at": "2023-12-24T08:08:17.000000Z"
+      },
+      {
+        "id": 15,
+        "customer_id": 12,
+        "order_number": 138,
+        "order_date": "1982-10-21",
+        "total_amount": "3651.00",
+        "created_at": "2023-12-24T08:08:17.000000Z",
+        "updated_at": "2023-12-24T08:08:17.000000Z"
+      },
+      {
+        "id": 16,
+        "customer_id": 17,
+        "order_number": 141,
+        "order_date": "1995-07-30",
+        "total_amount": "7764.00",
+        "created_at": "2023-12-24T08:08:17.000000Z",
+        "updated_at": "2023-12-24T08:08:17.000000Z"
+      },
+      {
+        "id": 17,
+        "customer_id": 13,
+        "order_number": 189,
+        "order_date": "2013-03-14",
+        "total_amount": "3543.00",
+        "created_at": "2023-12-24T08:08:17.000000Z",
+        "updated_at": "2023-12-24T08:08:17.000000Z"
+      },
+      {
+        "id": 18,
+        "customer_id": 1,
+        "order_number": 159,
+        "order_date": "1988-04-17",
+        "total_amount": "4701.00",
+        "created_at": "2023-12-24T08:08:17.000000Z",
+        "updated_at": "2023-12-24T08:08:17.000000Z"
+      },
+      {
+        "id": 19,
+        "customer_id": 2,
+        "order_number": 103,
+        "order_date": "1981-03-12",
+        "total_amount": "2571.00",
+        "created_at": "2023-12-24T08:08:17.000000Z",
+        "updated_at": "2023-12-24T08:08:17.000000Z"
+      },
+      {
+        "id": 20,
+        "customer_id": 7,
+        "order_number": 110,
+        "order_date": "2020-03-25",
+        "total_amount": "179.00",
+        "created_at": "2023-12-24T08:08:17.000000Z",
+        "updated_at": "2023-12-24T08:08:17.000000Z"
+      }
+    ]
+  }
